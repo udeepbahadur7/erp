@@ -1,0 +1,15 @@
+.idea*
+*__pycache__*
+
+# local files
+*.sqlite3
+*.swp
+rs.py
+media/*
+
+# custom files
+todos
+
+# temporary
+*migrations*
+**/models/
